@@ -1,0 +1,2 @@
+# InterestCommunityTicketingSystem
+ 基于SSM框架的兴趣社区演出票务管理系统，系统角色为用户和管理员
